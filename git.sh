@@ -11,3 +11,6 @@ ssh-add ~/.ssh/id_rsa
 # git remote add (origin) (git@github.com:uschyy/vscodetest2.git) [第一个本地分支]
 # git push -u (origin) (main) 
 
+# 提交文件
+# git add README.md
+# git commit -m "first commit"
